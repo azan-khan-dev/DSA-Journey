@@ -1,6 +1,6 @@
 # 📘 DSA Library
 
-A collection of Data Structures and Algorithms implemented in **TypeScript/JavaScript**.  
+A collection of Data Structures and Algorithms implemented in **TypeScript**.  
 This repository is focused on clean, optimized, and well-structured solutions for learning and interview preparation.
 
 ## ✨ Features
