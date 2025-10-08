@@ -33,6 +33,6 @@ if(JSON.stringify(before_arr)===JSON.stringify(after_arr))
 }
 else
 {
-    console.log("After sorting the array: ", selectionSort(numbers))
+    console.log("After sorting the array: ", after_arr)
 }
 
