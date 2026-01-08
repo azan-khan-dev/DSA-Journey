@@ -7,7 +7,7 @@ function two_sum(num,target)
         if(map[need]!==undefined)
         {
             return [map[need],i];
-        }
+        } 
         map[num[i]]=i
     }
 }
