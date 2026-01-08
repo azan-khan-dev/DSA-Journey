@@ -20,11 +20,10 @@ function selectionSort(arr: number[]): number[] {
     }
     return arr;
 }
-let numbers: number[] = [64, 25, 12, 22, 11];
+let numbers: number[] = [1,2,21,4,5,9];
 
 let before_arr: number[]=[...numbers]
 let after_arr:number[]=selectionSort([...numbers])
-
 console.log("Original Array :", numbers);
 if(JSON.stringify(before_arr)===JSON.stringify(after_arr))
 {
